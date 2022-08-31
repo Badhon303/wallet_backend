@@ -1,0 +1,138 @@
+[
+  {
+    "privilege": "getAllPrivileges",
+    "id": "606ddb7af5265bb4d517680d"
+  },
+  {
+    "privilege": "updateUser",
+    "id": "606ddb7af5265bb4d5176808"
+  },
+  {
+    "privilege": "shareUserProfile",
+    "id": "606ddb7af5265bb4d517680c"
+  },
+  {
+    "privilege": "manageMlmTree",
+    "id": "606ddb7af5265bb4d517680a"
+  },
+  {
+    "privilege": "createNewRole",
+    "id": "606ddb7af5265bb4d5176810"
+  },
+  {
+    "privilege": "getUsers",
+    "id": "606ddb7af5265bb4d5176807"
+  },
+  {
+    "privilege": "addNewPrivilege",
+    "id": "606ddb7af5265bb4d517680e"
+  },
+  {
+    "privilege": "getAllRoles",
+    "id": "606ddb7af5265bb4d517680f"
+  },
+  {
+    "privilege": "manageUsers",
+    "id": "606ddb7af5265bb4d5176809"
+  },
+  {
+    "privilege": "getReferrer",
+    "id": "606ddb7af5265bb4d517680b"
+  },
+  {
+    "privilege": "deleteRole",
+    "id": "606ddb7af5265bb4d5176811"
+  },
+  {
+    "privilege": "getRole",
+    "id": "606ddb7af5265bb4d5176812"
+  },
+  {
+    "privilege": "deleteRolePrivileges",
+    "id": "606ddb7af5265bb4d5176815"
+  },
+  {
+    "privilege": "addRolePrivilege",
+    "id": "606ddb7af5265bb4d5176814"
+  },
+  {
+    "privilege": "getRolePrivileges",
+    "id": "606ddb7af5265bb4d5176813"
+  },
+  {
+    "privilege": "getBalance",
+    "id": "606ddb7af5265bb4d5176817"
+  },
+  {
+    "privilege": "updateOwnAccount",
+    "id": "606ddb7af5265bb4d5176816"
+  },
+  {
+    "privilege": "performTransaction",
+    "id": "606ddb7af5265bb4d5176818"
+  },
+  {
+    "privilege": "getUser",
+    "id": "606f3fcafb9a6330337fb4ca"
+  },
+  {
+    "privilege": "btcAccount",
+    "id": "607facf48a579a1d6a2999cf"
+  },
+  {
+    "privilege": "getpackages",
+    "id": "60852b4af335631828cc4a19"
+  },
+  {
+    "privilege": "getTokenPrice",
+    "id": "608530a25aca4a1c6076d0cc"
+  },
+  {
+    "privilege": "getTokenInfo",
+    "id": "60853bfa2b33f123baae984e"
+  },
+  {
+    "privilege": "updateTokenInfo",
+    "id": "60853c712b33f123baae984f"
+  },
+  {
+    "privilege": "cartOperations",
+    "id": "6087e8521d153c216c9fd6b8"
+  },
+  {
+    "privilege": "createEthAccount",
+    "id": "6087eb910d757e23305e1a1c"
+  },
+  {
+    "privilege": "getOrders",
+    "id": "6089293d9ccaad3accbc1273"
+  },
+  {
+    "privilege": "getOrder",
+    "id": "608929a59ccaad3accbc1274"
+  },
+  {
+    "privilege": "updateReferrer",
+    "id": "6097b55011a66d0676f7a724"
+  },
+  {
+    "privilege": "getPurchaseHistory",
+    "id": "6098ed01e0dc7903e9660909"
+  },
+  {
+    "privilege": "exchangeRefPoint",
+    "id": "60a3af10fce3263220c8a022"
+  },
+  {
+    "privilege": "getReferralPoints",
+    "id": "60a64436514445c1a42ca33b"
+  },
+  {
+    "privilege": "updateReferralPointPrice",
+    "id": "60a888875a0a6c0696fa7e78"
+  },
+  {
+    "privilege": "getTokenAmount",
+    "id": "60a8bbed5a0a6c0696fa7e7b"
+  }
+]
